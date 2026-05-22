@@ -12,6 +12,7 @@
        src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" 
        width="260px">
 </picture>
+
 ---
 
 # 👨‍💻 Sobre mí
@@ -19,7 +20,7 @@
 Soy Ingeniero Estadístico especializado en Ciencia de Datos, Machine Learning y Analítica Avanzada.
 
 Me enfoco en desarrollar soluciones basadas en datos para resolver problemas de negocio mediante:
-- Modelos predictivos
+- Modelos predictivos y prescriptivos
 - Machine Learning
 - Análisis estadístico
 - Experimentación y análisis inferencial
@@ -32,14 +33,6 @@ Tengo experiencia trabajando con grandes volúmenes de datos para:
 - generación de insights
 - automatización de reporting
 - análisis operacional y estratégico
-
-Actualmente fortaleciendo conocimientos en:
-- Modelos de propensión y scoring
-- Segmentación y clustering
-- Forecasting
-- Experimentación A/B
-- MLOps
-- Cloud Analytics
 
 ---
 
@@ -81,6 +74,15 @@ Power BI · Power Automate · SQL · Python
 
 ---
 
+## 💳 Modelos de Riesgo Crediticio
+
+Desarrollo de modelos predictivos para evaluación de riesgo, admisión y comportamiento crediticio utilizando técnicas estadísticas y Machine Learning.
+
+**Tecnologías:**  
+Python · SQL · Logistic Regression · Scikit-Learn
+
+---
+
 ## 🤖 Predicción de Churn de Clientes
 
 Desarrollo de modelos de Machine Learning para identificar clientes con alta probabilidad de abandono mediante técnicas de clasificación y análisis de comportamiento.
@@ -99,12 +101,12 @@ Python · KMeans · PCA · Power BI
 
 ---
 
-## 💳 Credit Scoring y Riesgo
+## 🧠 Feature Engineering y Modelado Predictivo
 
-Construcción de modelos analíticos para evaluación de riesgo y scoring utilizando variables estadísticas y modelos predictivos.
+Construcción de variables analíticas, transformación de datos y desarrollo de modelos predictivos para optimización de resultados de negocio.
 
 **Tecnologías:**  
-Python · Logistic Regression · SQL · Power BI
+Python · Pandas · NumPy · SQL
 
 ---
 
@@ -126,12 +128,12 @@ Python · Estadística Inferencial · Scipy · SQL
 
 ---
 
-## 🐍 Automatización y Pipelines de Datos
+## ☁️ Pipelines Analíticos y Automatización
 
-Automatización de ETLs, limpieza de datos y generación de reportes analíticos utilizando Python y SQL.
+Automatización de procesos analíticos y pipelines de datos para procesamiento, monitoreo y despliegue de soluciones basadas en datos.
 
 **Tecnologías:**  
-Python · SQL · Power BI · Pandas
+Python · SQL · Power Automate · Power BI
 
 ---
 
@@ -144,22 +146,26 @@ Power BI · SQL · DAX
 
 ---
 
-# 📚 Actualmente Aprendiendo
+# 📚 Actualmente Fortaleciendo Conocimientos
 
-- Machine Learning Engineering
-- Deep Learning
-- Databricks
-- Azure ML
-- Experimentación y A/B Testing
-- MLOps
+- Modelos predictivos y prescriptivos
+- Modelos de riesgo y credit scoring
+- Segmentación y clustering
+- Forecasting y analítica predictiva
+- Experimentación y pruebas A/B
+- Feature Engineering y Feature Store
+- Pipelines y despliegue de modelos ML
+- MLOps y Cloud Analytics
+- Deep Learning y aplicaciones GenAI
+- Optimización y análisis de comportamiento de usuarios
 
 ---
 
 # 📫 Contacto
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ojimenezz
-- 🐙 GitHub:   https://github.com/ojimenez-data
-- 📧 Email:    ojimenezz@gmail.com
+- 🐙 GitHub: https://github.com/ojimenez-data
+- 📧 Email: ojimenezz@gmail.com
 
 ---
 
