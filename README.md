@@ -157,9 +157,9 @@ Power BI · SQL · DAX
 
 # 📫 Contacto
 
-- 💼 LinkedIn: [Tu LinkedIn](https://linkedin.com/)
-- 🐙 GitHub: [Tu GitHub](https://github.com/)
-- 📧 Email: tuemail@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ojimenezz
+- 🐙 GitHub:   https://github.com/ojimenez-data
+- 📧 Email:    ojimenezz@gmail.com
 
 ---
 
